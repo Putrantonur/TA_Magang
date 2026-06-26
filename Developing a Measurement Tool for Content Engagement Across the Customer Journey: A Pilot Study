@@ -1,0 +1,165 @@
+# Developing a Measurement Tool for Content Engagement Across the Customer Journey: A Pilot Study
+
+---
+
+## Metadata Dokumen
+
+| Atribut | Detail |
+|---|---|
+| **Penulis** | Sofa Nutrima Rismawati dan Indrawati* |
+| **Afiliasi** | Faculty of Economics and Business, Telkom University, Bandung, Indonesia |
+| **Jurnal** | International Journal of Science and Research Archive |
+| **Volume/Nomor/Halaman** | 2025, 15(03), 992–996 |
+| **Riwayat Publikasi** | Diterima 05 Mei 2025; direvisi 12 Juni 2025; diterima 14 Juni 2025 |
+| **DOI** | https://doi.org/10.30574/ijsra.2025.15.3.1834 |
+| **eISSN** | 2582-8185 |
+| **Cross Ref DOI** | 10.30574/ijsra |
+| **Laman Jurnal** | https://ijsra.net/ |
+| **Jenis Artikel** | Research Article |
+| **Penulis Korespondensi** | Indrawati |
+| **Lisensi** | Creative Commons Attribution License 4.0 |
+
+> *Corresponding author: Indrawati.
+> Copyright © 2025 Author(s) retain the copyright of this article. This article is published under the terms of the Creative Commons Attribution License 4.0.
+
+---
+
+## Abstract
+
+The rise of digital training platforms in Indonesia necessitates the development of robust measurement tools to assess participant engagement effectively. PT Global Edukasi Talenta Incubator (GeTI) implements a Digital Communication Management (DCM) strategy using WhatsApp Business as the main content distribution channel. This study aims to develop a measurement tool to evaluate how different types of content — educational, product-related, and cause-related — affect content engagement across the customer journey stages: pre-purchase, purchase, and post-purchase. The research adopts the antecedents and consequences of trust model adapted from Salonen et al. (2024), integrating moderating variables such as brand familiarity and social media usage. A pilot test with 30 respondents was conducted to assess content validity, face validity, and reliability using SPSS. Results showed that all 35 questionnaire items across 7 constructs met the validity (CITC > 0.3) and reliability (Cronbach's Alpha > 0.7) thresholds. The proposed measurement tool is therefore appropriate for further use in full-scale studies on digital engagement in educational settings.
+
+**Keywords:** Content Engagement; Digital Communication; Customer Journey; Social Media; Pilot Test; Educational Content
+
+---
+
+## 1. Introduction
+
+PT Global Edukasi Talenta Incubator (GeTI) has implemented a Digital Communication Management (DCM) strategy using a multi-platform approach, with WhatsApp Business as the primary medium for distributing content to trainees. The content shared includes technical information such as training schedules, voucher redemption instructions, facial verification guidance, and task reminders. This strategy is aimed at ensuring that participants receive timely information to complete the full training series optimally (PT Global Edukasi Talenta Incubator, 2024).
+
+Despite adopting a digital approach, GeTI faces several challenges in ensuring the effectiveness of both content and delivery platforms. From a business performance perspective, indicators such as a low delivery rate (12.74% in September 2024) and a high pending rate (61.70%–72.70% from June to August 2024) indicate technical constraints that hinder participant engagement. A sharp decline in conversation volume during non-campaign periods illustrates the reliance on well-planned communication strategies. Additionally, low customer service efficiency — only five conversations were resolved during the May to September 2024 period — emphasizes the need for systematic improvements (PT Global Edukasi Talenta Incubator, 2024).
+
+---
+
+## 2. Literature Review
+
+Shahbaznezhad et al. (2021) categorize engaging content into three main types: rational, transactional, and interactional. Rational content delivers useful and helpful information; transactional content provides direct incentives for purchases, such as product announcements, discounts, or contests; while interactional content aims to build emotional experiences and relationships to satisfy users' desires for social integration.
+
+This study follows the framework of Salonen et al. (2024), which explicitly segments the customer journey into pre-purchase, purchase, and post-purchase stages. Adopting a B2C adaptation of the B2B model, this research proposes that customers engage with educational, product-related, or cause-related content that aligns with their journey stage, thereby increasing content and firm engagement. These relationships are moderated by timing and social media usage. Salonen et al.'s hypotheses on content relevance, engagement pathways, mediating roles, and social media effects inform this study's conceptual framework. Figure 1 shows the proposed the antecedents and consequences model of this research.
+
+> 🖼️ [Figure 1 — Diagram model anteceden dan konsekuensi sebagai kerangka penelitian. Diagram menampilkan sebuah kotak di kiri atas berlabel "Content Types at Stages of purchases." Di bawahnya terdapat tiga kotak bertumpuk: "Educational Content," "Product Related Content," dan "Cause Related Content." Ketiga kotak tersebut masing-masing dihubungkan dengan panah ke kotak "Content Engagement" di bagian tengah-kanan. Di atas "Content Engagement" terdapat kotak "Brand Familiarity." Di bawah "Content Engagement" terdapat kotak "Content Fit." Di bagian bawah seluruh diagram, sebuah kotak bertanda titik-titik berlabel "Social Media Usage [WhatsApp Business API]" menghubungkan elemen-elemen tersebut, mengindikasikan perannya sebagai variabel moderasi.]
+
+This study uses a structured online questionnaire as the main research instrument. It evaluates the following variables:
+
+- **Independent Variables:** Content types (educational, product-related, and cause-related) and brand familiarity, measured based on perceived suitability across customer journey stages.
+- **Dependent Variable:** Content engagement, including likelihood to like, share, act upon, and perceive relevance.
+- **Moderating Variable:** Social media usage (frequency of using WhatsApp to seek content).
+
+This study is similar to Indrawati et al. (2023), who examined how eWOM via TikTok affected consumers purchasing intentions, focusing particularly on how social media platforms function as key channels for distributing digital content. This study also aligns with the research methods of Indrawati and Putri (2018) and Indrawati et al. (2022), who also employed a survey approach to study real digital activities (online buying or technology adoption) without laboratory experiments, therefore compiling data based on real behavior. To ensure the quality of the measurement tool, the study conducted content validity, face validity, readability tests, and a pilot test with 30 respondents. Content validity was ensured by adapting published items; face validity involved expert feedback in marketing and digital media; and readability tested respondents' comprehension.
+
+---
+
+## 3. Methodology
+
+To develop a good measurement tool, the validity and reliability test are conducted in this research. Validity tests are consisting of content validity, face validity, readability and pilot test. Indrawati (2015) explains that content validity is the extent to which items are used to measure the research variables logically correspond to what is measured and conducted by adopting and modifying items related with what has been published. Face validity was conducted by expecting some suggestions and recommendations from the experts in the field of marketing. Readability was conducted through the results of respondents understanding toward the questionnaire. Table 1 shows the items of questionnaire.
+
+**Table 1 Items on Questionnaire**
+
+| Variable | Item Code | Statement (English) |
+|---|---|---|
+| Brand Familiarity | BF1 | Before viewing GeTI content, how familiar were you with GeTI Incubator? |
+| | BF2 | While interacting with GeTI content, how familiar are you with the GeTI Incubator brand? |
+| | BF3 | After interacting with GeTI content, how familiar are you with the GeTI Incubator brand? |
+| Content Fit | CF1 | How well does the educational content from GeTI Incubator match your current learning needs? |
+| | CF2 | How appropriate is the product content from GeTI Incubator for your training or product-related needs? |
+| | CF3 | How well does the cause-related content from GeTI Incubator align with the social context you are facing? |
+| | CF4 | To what extent does your current situation affect the relevance of the content provided by GeTI Incubator? |
+| Educational Content | EC1 | How informative is the educational content from GeTI Incubator in helping you understand the services offered? |
+| | EC2 | How clearly does the educational content from GeTI Incubator explain the material presented? |
+| | EC3 | How much does the educational content from GeTI Incubator motivate you to explore the topic more deeply? |
+| | EC4 | How well does the educational content from GeTI Incubator help you understand the material more effectively? |
+| Product Content | PC1 | How informative is the product content from GeTI Incubator in helping you understand the offering before making a decision? |
+| | PC2 | How clearly does the product content from GeTI Incubator explain the benefits of the offered product? |
+| | PC3 | How persuasive is the product content from GeTI Incubator in influencing your purchase intention? |
+| | PC4 | How well does the product content from GeTI Incubator match your current personal interests? |
+| Cause-Related Content | CC1 | To what extent does the cause-related content from GeTI Incubator reflect concern for social issues? |
+| | CC2 | How influential is the cause-related content from GeTI Incubator in raising your awareness about the addressed social issues? |
+| | CC3 | How interested are you in participating in social movements after viewing GeTI Incubator's cause-related content? |
+| | CC4 | How well does the cause-related content from GeTI Incubator align with your personal values? |
+| Social Media Usage | SM1 | How often do you receive information about educational content from GeTI Incubator through WhatsApp? |
+| | SM2 | How often do you receive information about product content from GeTI Incubator through WhatsApp? |
+| | SM3 | How often do you receive information about cause-related content from GeTI Incubator through WhatsApp? |
+| Content Engagement | CE1 | How likely are you to "like" content from GeTI Incubator? |
+| | CE2 | How likely are you to share content from GeTI Incubator with your friends? |
+| | CE3 | How likely are you to search for more information after viewing content from GeTI Incubator? |
+| | CE4 | How relevant is GeTI Incubator's content to your learning needs? |
+| | CE5 | How often do you recall content from GeTI Incubator a few days after seeing it? |
+| | CE6 | How well does GeTI Incubator's content match your personal interests? |
+
+> **Catatan:** Table 1 menampilkan 28 item dari 7 variabel. Abstrak dan kesimpulan menyebut total 35 item; kemungkinan terdapat item tambahan yang tidak terekstraksi dari dokumen PDF asli.
+
+---
+
+## 4. Results and Discussion
+
+The pilot test was conducted on 30 respondents through Google Forms online questionnaire. All respondents are representatives of those having domiciled in Indonesia. This study employs a quantitative approach to empirically test the impact of various content types, including educational, product-related, and cause-related content, on content engagement among trainee participants at PT Global Edukasi Talenta Incubator (GeTI). The data collected was calculated by using SPSS software. Refers to Freidenberg and Kaplan in Indrawati (2015:149), the items are considered to be valid if the "Corrected Item – Total Correlation" (CITC) is greater than 0.3. All of the items on seven constructs in this research are considered to be valid. As well as the reliability test is where the Cronbach-Alpha (CA) score greater than 0.7. All seven constructs in this research satisfy the reliability test. The results of the pilot test present in the following Table 2.
+
+**Table 2 Pilot Test Result**
+
+> ⚠️ **Catatan artefak rendering:** Nama variabel dan kode item dalam tabel ini tampak mengalami sisipan vokal acak pada dokumen PDF asli (mis. "EIducaitionail Conteint" alih-alih "Educational Content"; "EIC1" alih-alih "EC1"; "Caiusei-Reilaiteid" alih-alih "Cause-Related"). Nilai CITC dan Cronbach's Alpha juga tampak tidak memiliki angka desimal (mis. "789" kemungkinan = 0,789; "814" kemungkinan = 0,814). Tabel di bawah ini ditranskripsi secara verbatim sesuai isi dokumen asli; rujuk Tabel 1 untuk nama variabel dan kode item yang benar.
+
+| Variable | Item Code | CITC | Cronbach's Alpha (CA) |
+|---|---|---|---|
+| EIducaitionail Conteint | EIC1 | 789 | 814 |
+| | EIC2 | 906 | |
+| | EIC3 | 673 | |
+| | EIC4 | 425 | |
+| Product Conteint | PC1 | 782 | 806 |
+| | PC2 | 848 | |
+| | PC3 | 370 | |
+| | PC4 | 540 | |
+| Caiusei-Reilaiteid Conteint | CC1 | 884 | 876 |
+| | CC2 | 549 | |
+| | CC3 | 689 | |
+| | CC4 | 792 | |
+| Sociail Meidiai Usaigei | SM1 | 669 | 895 |
+| | SM2 | 936 | |
+| | SM3 | 823 | |
+| Conteint Fit | CF1 | 879 | 817 |
+| | CF2 | 306 | |
+| | CF3 | 621 | |
+| | CF4 | 758 | |
+| Braind Faimiliairity | BF1 | 468 | 768 |
+| | BF2 | 874 | |
+| | BF3 | 693 | |
+| Conteint EIngaigeimeint | CEI1 | 274 | 852 |
+| | CEI2 | 716 | |
+| | CEI3 | 829 | |
+| | CEI4 | 845 | |
+| | CEI5 | 614 | |
+| | CEI6 | 778 | |
+
+---
+
+## 5. Conclusion
+
+This pilot study successfully developed and tested a measurement tool to evaluate the impact of educational, product-related, and cause-related content on content engagement across different stages of the customer journey at PT Global Edukasi Talenta Incubator (GeTI). The instrument was designed based on the modified antecedents and consequences of the trust model by Salonen et al. (2024) and further enriched with contextual relevance to GeTI's digital communication strategy via WhatsApp Business. Using validity and reliability tests on 35 items across 7 constructs with 30 respondents, the results showed that all indicators met the minimum standards of Corrected Item-Total Correlation (CITC > 0.3) and Cronbach's Alpha (CA > 0.7). These findings confirm that the developed measurement tool is both valid and reliable for evaluating content engagement in digital learning environments. This tool is now ready for application in full-scale research to analyze behavioral patterns and improve content strategies tailored to customer journey stages within digital education platforms.
+
+---
+
+## References
+
+[1] Freidenberg, L., & Kaplan, R. (n.d.). *Measurement and evaluation concepts in psychological testing* (as cited in Indrawati, 2015, p. 149).
+
+[2] Indrawati. (2015). *Management and business research methods: Convergence of communication and information technology.* Refika Aditama.
+
+[3] Indrawati, & Putri, D. A. (2018). Identifying factors influencing the continued use of e-payment systems using the modified UTAUT 2 model. In *Proceedings of the 6th International Conference on Information and Communication Technology (ICoICT)* (pp. 167–172). IEEE. https://doi.org/10.1109/ICoICT.2018.8528748
+
+[4] Indrawati, Ramantoko, G., Widarmanti, T., Aziz, I. A., & Khan, F. U. (2022). Online shopping motivations: Utilitarian, hedonic, and self-esteem factors. *Spanish Journal of Marketing - ESIC, 26*(2), 231–246. https://doi.org/10.1108/SJME-06-2021-0113
+
+[5] Indrawati, Yones, P. C. P., & Muthaiyah, S. (2023). The effect of eWOM on TikTok on Somethinc product purchase intentions. *Asia Pacific Management Review, 28*(3), 174–184. https://doi.org/10.1016/j.apmrv.2022.07.007
+
+[6] PT Global Edukasi Talenta Incubator. (2024). *Internal performance report* [Unpublished internal document].
+
+[7] Salonen, A., Mero, J., Muikku, J., Zimmer, M., & Karjaluoto, H. (2024). Digital content marketing on social media along the B2B customer journey: The effect of timely content delivery on customer engagement. *Industrial Marketing Management, 118,* 20–33. https://doi.org/10.1016/j.indmarman.2024.02.002
+
+[8] Shahbaznezhad, H., Dolan, R., & Rashidirad, M. (2021). Social media content formats and the platform's role in influencing engagement behaviors. *Journal of Interactive Marketing, 53,* 47–65. https://doi.org/10.1016/j.intmar.2020.05.001
